@@ -117,7 +117,7 @@ const educationInfo = {
       duration: 'June 2018 - ',
       desc:
         'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
-      descBullets: ['Lorem ipsum dolor sit amet, consectetur adipiscing elit'],
+      descBullets: ['A Passionate Developer'],
     },
   ],
 };
