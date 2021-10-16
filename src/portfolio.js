@@ -151,7 +151,7 @@ const workExperiences = {
     
     {
       role: 'BackEnd Developer',
-      company: 'Prithvi AI',
+      company: 'Algo8 AI',
       companylogo: require('./assets/images/prithviLogo.jpg'),
       date: 'Nov 2020 – Present',
       desc:
